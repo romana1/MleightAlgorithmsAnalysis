@@ -1,6 +1,6 @@
 ## ML study project with deployment to docker container
 
-It was desined according to Cross-industry standard process for data mining (CRISP)
+It was designed according to Cross-industry standard process for data mining (CRISP)
 
 1. This Project includes data analisys
 2. Data preparation (feature engineering)
